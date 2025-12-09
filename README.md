@@ -22,7 +22,7 @@ A fully customized architectural diagram has been generated for this project.
 ## 🛠 Technologies Used
 
 ### **Languages**
-None
+java
 
 ### **Frameworks**
 None
@@ -40,7 +40,7 @@ None
 None
 
 ### **Pipeline Components**
-None
+ml_pipeline
 
 ### **Identified Internal Services / Modules**
 None
@@ -62,7 +62,7 @@ All files are saved under the project's **diagram/** directory.
 ---
 
 ## 📦 Source Code Analysis
-- Total scanned files: **0**
+- Total scanned files: **6**
 - Analysis is based on deep source code scanning (not metadata).
 
 ---
